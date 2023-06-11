@@ -2362,3 +2362,5 @@ stock _item_isIdleAnimation(animidx) {
 
     return 0;
 }
+
+
